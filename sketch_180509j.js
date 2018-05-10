@@ -7,7 +7,6 @@ function preload(){
 function setup(){
   createCanvas(1000,334);
    background(255);
-  img=loadImage("art2.jpg");
   image(img,500,0);
 }
 
